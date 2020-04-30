@@ -20,5 +20,7 @@ Live site should be available [here](https://ekaterinaasf.github.io/04-Array-Car
 
 | syntax           | parameters | return value | behavior                                                               |
 | ---------------- | ---------- | ------------ | ---------------------------------------------------------------------- |
-| `toggleOpen()`   | no         | no           | apply an appropriate style                                             |
-| `toggleActive()` | _Event_    | no           | apply an appropriate style for the block related to the selected event |
+| `Array.prototype.filter()`   | array      | array        | apply an appropriate calculation                          |
+| `Array.prototype.map()` | array    | array          | apply an appropriate calculation|
+| `Array.prototype.sort()` | array    | array          | apply an appropriate calculation|
+| `Array.prototype.reduce()` | array    | array          | apply an appropriate calculation|
